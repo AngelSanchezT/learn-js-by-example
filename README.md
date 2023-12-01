@@ -19,3 +19,7 @@ Este repositorio es principalmente para mi propio aprendizaje y desarrollo, pero
 El código en este repositorio está disponible bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ¡Gracias por visitar mi repositorio!
+
+## TODO
+
+- [ ] Crear un API tal como esta en https://fakeapi.platzi.com/en/rest/products/ con su documentación.
